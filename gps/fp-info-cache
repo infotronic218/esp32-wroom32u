@@ -1,4 +1,4 @@
-19493129594825521
+19489849679596468
 1KiCadLib
 Arduino_Nano
 Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
@@ -111,20 +111,6 @@ HRS_DM3CS-SF
 0
 13
 13
-1KiCadLib
-IC-FLASH-16MB-W25Q16JVSNIQ
-
-
-0
-8
-8
-1KiCadLib
-IC-SENSOR-TEMP-AT30TS75A-SS8M-B
-
-
-0
-8
-8
 1KiCadLib
 IC_BUCK_BOOST_ISL9110IRTNZ
 
